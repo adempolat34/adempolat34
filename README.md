@@ -28,13 +28,15 @@ Here are the languages, frameworks, and tools I work with:
 
 I highly value continuous learning. Click on the certificates below to view them:
 
+- 🏅 **[Adobe Premiere Pro 2025](./Adobe_Premiere_Pro_2025_Sertifika.pdf)** – Issued by BTK Akademi
 - 🏅 **[JavaScript Fundamentals](./Javascript_Temelleri_Sertifika.pdf)** – Issued by BTK Akademi
 - 🏅 **[Programming with C#](./C%23_ile_Programlama_Sertifika.pdf)** – Issued by BTK Akademi
 - 🏅 **[Introduction to Cyber Security](./Siber_G%C3%BCvenli%C4%9Fe_Giri%C5%9F_Sertifika.pdf)** – Issued by BTK Akademi
 - 🏅 **[React Native 101](./ADEM%20POLAT%20-%20React%20Native%20101.pdf)** – Issued by Turkcell Geleceği Yazanlar
 - 🏅 **[React Native 201](./ADEM%20POLAT%20-%20React%20Native%20201.pdf)** – Issued by Turkcell Geleceği Yazanlar
 - 🏅 **[React Native 301](./ADEM%20POLAT%20-%20React%20Native%20301.pdf)** – Issued by Turkcell Geleceği Yazanlar
-- 🏅 **[Adobe Premiere Pro 2025](./Adobe_Premiere_Pro_2025_Sertifika.pdf)** ---
+
+---
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AdemPolat34)
