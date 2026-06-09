@@ -26,13 +26,16 @@ Here are the languages, frameworks, and tools I work with:
 
 ### 📜 Certifications
 
-I highly value continuous learning. Here are some of the certifications I have earned:
+I highly value continuous learning. Click on the certificates below to view them:
 
-- 🏅 **[Certificate Name 1]** – Issued by [Organization/Platform] (*[Year]*)
-- 🏅 **[Certificate Name 2]** – Issued by [Organization/Platform] (*[Year]*)
-
----
+- 🏅 **[JavaScript Fundamentals](./Javascript_Temelleri_Sertifika.pdf)** – Issued by BTK Akademi
+- 🏅 **[Programming with C#](./C%23_ile_Programlama_Sertifika.pdf)** – Issued by BTK Akademi
+- 🏅 **[Introduction to Cyber Security](./Siber_G%C3%BCvenli%C4%9Fe_Giri%C5%9F_Sertifika.pdf)** – Issued by BTK Akademi
+- 🏅 **[React Native 101](./ADEM%20POLAT%20-%20React%20Native%20101.pdf)** – Issued by Turkcell Geleceği Yazanlar
+- 🏅 **[React Native 201](./ADEM%20POLAT%20-%20React%20Native%20201.pdf)** – Issued by Turkcell Geleceği Yazanlar
+- 🏅 **[React Native 301](./ADEM%20POLAT%20-%20React%20Native%20301.pdf)** – Issued by Turkcell Geleceği Yazanlar
+- 🏅 **[Adobe Premiere Pro 2025](./Adobe_Premiere_Pro_2025_Sertifika.pdf)** ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[LinkedinKullanıcıAdın])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AdemPolat34)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adem.polat656@gmail.com)
